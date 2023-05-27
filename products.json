@@ -1,0 +1,485 @@
+{
+  "laptop":[
+    {
+      "id": 1,
+      "title": "Laptop Asus-F15-FX507zc",
+      "image": "/images/laptop/11a.png",
+      "price": 400,
+      "rating": 4.5,
+      "reviews": "5,000",
+      "brand":"Asus",
+      "description":"Laptop - Athlon Gold 3150U, 4 GB RAM, 1 TB HDD, AMD Radeon            Graphics, 15.6-Inch HD, DOS - Astroid Silver"
+      
+    },
+    {
+      "id": 2,
+      "title": "Laptop Msi-571T",
+      "image": "/images/laptop/12a.png",
+      "price": 450,
+      "rating": 4.8,
+      "reviews": "3,785",
+      "brand":"Msi",
+      "description":"Laptop-Athlon Gold 3150U, 8GB RAM,1TB HDD,AMD Radeon Graphics,15.6-Inch HD,DOS-Astroid Silver"
+
+      
+    },
+    {
+      "id": 3,
+      "title": "Laptop Asus-T15-ZX580zc",
+      "image": "/images/laptop/13a.png",
+      "price": 320,
+      "rating": 4.7,
+      "reviews": "2,236",
+      "brand":"Asus",
+      "description":"Laptop-Athlon Gold 3150U, 8GB RAM,1TB HDD,AMD Radeon Graphics,15.6-Inch HD,DOS-Astroid Silver"
+
+      
+    },
+    {
+      "id": 4,
+      "title": "Laptop Msi-581T",
+      "image": "/images/laptop/14a.png",
+      "price": 600,
+      "rating": 4.1,
+      "reviews": "1,452",
+      "brand":"Msi",
+      "description":"Laptop-Athlon Gold 3150U, 8GB RAM,1TB HDD,AMD Radeon Graphics,15.6-Inch HD,DOS-Astroid Silver"
+
+      
+    },
+    {
+      "id":5,
+      "title": "Laptop Msi-571T",
+      "image": "/images/laptop/18a.png",
+      "price": 550,
+      "rating": 4.5,
+      "reviews": "7,014",
+      "brand":"Msi",
+      "description":"Laptop-Athlon Gold 3150U, 8GB RAM,1TB HDD,AMD Radeon Graphics,15.6-Inch HD,DOS-Astroid Silver"
+
+      
+    },
+    {
+      "id": 6,
+      "title": "Laptop Asus-R875-EX507zc",
+      "image": "/images/laptop/16a.png",
+      "price": 350,
+      "rating": 4.5,
+      "reviews": "8,079",
+      "brand":"Asus",
+      "description":"Laptop-Athlon Gold 3150U, 8GB RAM,1TB HDD,AMD Radeon Graphics,15.6-Inch HD,DOS-Astroid Silver"
+
+      
+    },
+    {
+      "id": 7,
+      "title": "Laptop Msi-5897ERT",
+      "image": "/images/laptop/17a.png",
+      "price": 590,
+      "rating": 4.5,
+      "reviews": "7,014",
+      "brand":"Msi",
+      "description":"Laptop-Athlon Gold 3150U, 8GB RAM,1TB HDD,AMD Radeon Graphics,15.6-Inch HD,DOS-Astroid Silver"
+
+      
+    },
+    {
+      "id": 8,
+      "title": "Laptop Asus-879TGF",
+      "image": "/images/laptop/18a.png",
+      "price": 850,
+      "rating": 4.3,
+      "reviews": "3,014",
+      "brand":"Asus",
+      "description":"Laptop-Athlon Gold 3150U, 8GB RAM,1TB HDD,AMD Radeon Graphics,15.6-Inch HD,DOS-Astroid Silver"
+
+      
+    },
+    {
+      "id": 9,
+      "title": "Laptop Msi-TY7",
+      "image": "/images/laptop/14a.png",
+      "price": 900,
+      "rating": 4.5,
+      "reviews": "4,014",
+      "brand":"Msi",
+      "description":"Laptop-Athlon Gold 3150U, 8GB RAM,1TB HDD,AMD Radeon Graphics,15.6-Inch HD,DOS-Astroid Silver"
+
+      
+    },
+    {
+      "id": 10,
+      "title": "Laptop Asus-YUT895",
+      "image": "/images/laptop/18a.png",
+      "price": 500,
+      "rating": 4.5,
+      "reviews": "5,014",
+      "brand":"Asus",
+      "description":"Laptop-Athlon Gold 3150U, 8GB RAM,1TB HDD,AMD Radeon Graphics,15.6-Inch HD,DOS-Astroid Silver"
+
+      
+    },
+    {
+      "id": 11,
+      "title": "Laptop Asus-555R",
+      "image": "/images/laptop/12a.png",
+      "price": 1200,
+      "rating": 4.5,
+      "reviews": "6,014",
+      "brand":"Asus",
+      "description":"Laptop-Athlon Gold 3150U, 8GB RAM,1TB HDD,AMD Radeon Graphics,15.6-Inch HD,DOS-Astroid Silver"
+
+
+      
+    },
+    {
+      "id": 12,
+      "title": "Laptop Msi-YRT87",
+      "image": "/images/laptop/13a.png",
+      "price": 750,
+      "rating": 4.5,
+      "reviews": "9,014",
+      "brand":"Msi",
+      "description":"Laptop-Athlon Gold 3150U, 8GB RAM,1TB HDD,AMD Radeon Graphics,15.6-Inch HD,DOS-Astroid Silver"
+    }
+    
+  ],
+    "mobile":[
+    {
+      "id": 12,
+      "title": "Mobile Samsung M33",
+      "image": "/images/mobile/s2.png",
+      "price": 500,
+      "rating": 4.9,
+      "reviews": "7,014",
+      "brand":"Samsung",
+      "description":"6.7-inch Super Retina XDR display featuring Always-On and ProMotion Dynamic Island, a magical new way to interact with iPhone 48MP "
+    
+    } , 
+    {
+      "id": 13,
+      "title": "Iphone Apple PRO12",
+      "image": "/images/mobile/app1.png",
+      "price": 850,
+      "rating": 4.5,
+      "reviews": "7,014",
+      "brand":"Apple",
+      "description":"6.7-inch Super Retina XDR display featuring Always-On and ProMotion Dynamic Island, a magical new way to interact with iPhone 48MP "
+
+    },  
+    {
+      "id": 14,
+      "title": "Mobile Samsung M33",
+      "image": "/images/mobile/s2.png",
+      "price": 600,
+      "rating": 4.9,
+      "reviews": "4,014",
+      "brand":"Samsung",
+      "description":"6.7-inch Super Retina XDR display featuring Always-On and ProMotion Dynamic Island, a magical new way to interact with iPhone 48MP "
+
+    } , 
+    {
+      "id": 15,
+      "title": "Iphone Apple PLUS 12",
+      "image": "/images/mobile/app3.png",
+      "price": 650,
+      "rating": 4.5,
+      "reviews": "9,014",
+      "brand":"Apple",
+      "description":"6.7-inch Super Retina XDR display featuring Always-On and ProMotion Dynamic Island, a magical new way to interact with iPhone 48MP "
+
+    } , 
+    {
+      "id": 16,
+      "title": "Mobile Samsung M33",
+      "image": "/images/mobile/s2.png",
+      "price": 950,
+      "rating": 4.5,
+      "reviews": "7,014",
+      "brand":"Samsung",
+      "description":"6.7-inch Super Retina XDR display featuring Always-On and ProMotion Dynamic Island, a magical new way to interact with iPhone 48MP "
+
+    } , 
+    {
+      "id": 17,
+      "title": "Iphone Apple 13PRO",
+      "image": "/images/mobile/app1.png",
+      "price": 620,
+      "rating": 4.5,
+      "reviews": "9,014",
+      "brand":"Apple",
+      "description":"6.7-inch Super Retina XDR display featuring Always-On and ProMotion Dynamic Island, a magical new way to interact with iPhone 48MP "
+
+    },  
+    {
+      "id": 18,
+      "title": "Mobile Samsung M33",
+      "image": "/images/mobile/s2.png",
+      "price": 1000,
+      "rating": 4.5,
+      "reviews": "9,014",
+      "brand":"Samsung",
+      "description":"6.7-inch Super Retina XDR display featuring Always-On and ProMotion Dynamic Island, a magical new way to interact with iPhone 48MP "
+
+    } , 
+    {
+      "id": 19,
+      "title": "Iphone Apple 14PRO",
+      "image": "/images/mobile/app3.png",
+      "price": 1280,
+      "rating": 4.5,
+      "reviews": "9,014",
+      "brand":"Apple",
+      "description":"6.7-inch Super Retina XDR display featuring Always-On and ProMotion Dynamic Island, a magical new way to interact with iPhone 48MP "
+
+    } , 
+    {
+      "id": 20,
+      "title": "Mobile Samsung M33",
+      "image": "/images/mobile/s2.png",
+      "price": 1150,
+      "rating": 4.5,
+      "reviews": "9,014",
+      "brand":"Samsung",
+      "description":"6.7-inch Super Retina XDR display featuring Always-On and ProMotion Dynamic Island, a magical new way to interact with iPhone 48MP "
+
+    } , 
+    {
+      "id": 21,
+      "title": "Iphone Apple 14PRO 128G",
+      "image": "/images/mobile/app1.png",
+      "price": 1530,
+      "rating": 4.5,
+      "reviews": "9,014",
+      "brand":"Apple",
+      "description":"6.7-inch Super Retina XDR display featuring Always-On and ProMotion Dynamic Island, a magical new way to interact with iPhone 48MP "
+
+    },
+    {
+      "id": 22,
+      "title": "Mobile Samsung M33",
+      "image": "/images/mobile/s2.png",
+      "price": 980,
+      "rating": 4.5,
+      "reviews": "9,014",
+      "brand":"Samsung",
+      "description":"6.7-inch Super Retina XDR display featuring Always-On and ProMotion Dynamic Island, a magical new way to interact with iPhone 48MP "
+
+    } , 
+    {
+      "id": 23,
+      "title": "Iphone Apple 14PRO 256G",
+      "image": "/images/mobile/app4.png",
+      "price": 1999,
+      "rating": 4.5,
+      "reviews": "9,014",
+      "brand":"Apple",
+      "description":"6.7-inch Super Retina XDR display featuring Always-On and ProMotion Dynamic Island, a magical new way to interact with iPhone 48MP "
+
+    }  
+  ],
+  "monitorgaming":
+  [
+    {
+      "id": 25,
+      "title": "Monitor Gaming Msi Z570",
+      "image": "/images/monitor/m2.png",
+      "price": 3050,
+      "rating": 4.5,
+      "reviews": "8,014",
+      "brand":"Msi",
+      "description":"Legion 24.5-inch FHD Gaming Near Edgeless Monitor, IPS Panel, 240Hz, 1ms, 400 Nits Brightness, Anti-Glare, NVIDIA G-SYNC Technology, TUV Certified Eye Comfort - Y25-25 "
+
+    },
+    {
+      "id": 26,
+      "title": "Monitor Gaming Samsung R852",
+      "image": "./images/monitor/m1.png",
+      "price": 2900,
+      "rating": 3.5,
+      "reviews": "7,784",
+      "brand":"Samsung",
+      "description":"Legion 24.5-inch FHD Gaming Near Edgeless Monitor, IPS Panel, 240Hz, 1ms, 400 Nits Brightness, Anti-Glare, NVIDIA G-SYNC Technology, TUV Certified Eye Comfort - Y25-25 "
+
+    },
+    {
+      "id": 27,
+      "title": "Monitor Gaming Samsung R230",
+      "image": "/images/monitor/m2.png",
+      "price": 2250,
+      "rating": 4.5,
+      "reviews": "2,401",
+      "brand": "Samsung",
+      "description":"Legion 24.5-inch FHD Gaming Near Edgeless Monitor, IPS Panel, 240Hz, 1ms, 400 Nits Brightness, Anti-Glare, NVIDIA G-SYNC Technology, TUV Certified Eye Comfort - Y25-25 "
+
+    },
+    {
+      "id": 28,
+      "title": "Monitor Gaming Msi Z900",
+      "image": "/images/monitor/m1.png",
+      "price": 3290,
+      "rating": 3.0,
+      "reviews": "420",
+      "brand": "Msi",
+      "description":"Legion 24.5-inch FHD Gaming Near Edgeless Monitor, IPS Panel, 240Hz, 1ms, 400 Nits Brightness, Anti-Glare, NVIDIA G-SYNC Technology, TUV Certified Eye Comfort - Y25-25 "
+
+    }
+    
+    
+  ],
+  "headphone":[
+    {
+      "id": 35,
+      "title": "Headphone H200",
+      "image": "/images/headphone/head2.png",
+      "price": 50,
+      "rating": 4.5,
+      "reviews": "9,014",
+      "brand": "Samsung",
+      "description":"G2000 Gaming Headset, Surround Stereo Gaming Headphones with Noise Cancelling Mic, LED Light & Soft Memory Earmuffs, Works with Xbox One, PS4, Nintendo Switch, PC Mac Computer" 
+      
+    },
+    {
+      "id": 36,
+      "title": "Headphone Z50",
+      "image": "/images/headphone/head3.png",
+      "price": 70,
+      "rating": 3.5,
+      "reviews": "7,784",
+      "brand": "Sony",
+      "description":"G2000 Gaming Headset, Surround Stereo Gaming Headphones with Noise Cancelling Mic, LED Light & Soft Memory Earmuffs, Works with Xbox One, PS4, Nintendo Switch, PC Mac Computer" 
+
+    },
+    {
+      "id": 37,
+      "title": "Headphone R800",
+      "image": "/images/headphone/head4.png",
+      "price": 35,
+      "rating": 4.5,
+      "reviews": "2,401",
+      "brand": "Samsung",
+      "description":"G2000 Gaming Headset, Surround Stereo Gaming Headphones with Noise Cancelling Mic, LED Light & Soft Memory Earmuffs, Works with Xbox One, PS4, Nintendo Switch, PC Mac Computer" 
+    },
+    {
+      "id": 38,
+      "title": "Headphone",
+      "image": "/images/headphone/head5.png",
+      "price": 90,
+      "rating": 3.0,
+      "reviews": "420",
+      "brand": "Sony",
+      "description":"G2000 Gaming Headset, Surround Stereo Gaming Headphones with Noise Cancelling Mic, LED Light & Soft Memory Earmuffs, Works with Xbox One, PS4, Nintendo Switch, PC Mac Computer" 
+    },
+    {
+      "id": 39,
+      "title": "Headphone",
+      "image": "/images/headphone/head6.png",
+      "price": 50,
+      "rating": 4.5,
+      "reviews": "9,014",
+      "brand": "Samsung",
+      "description":"G2000 Gaming Headset, Surround Stereo Gaming Headphones with Noise Cancelling Mic, LED Light & Soft Memory Earmuffs, Works with Xbox One, PS4, Nintendo Switch, PC Mac Computer" 
+    },
+    {
+      "id": 40,
+      "title": "Headphone",
+      "image": "/images/headphone/head7.png",
+      "price": 200,
+      "rating": 3.5,
+      "reviews": "7,784",
+      "brand": "Samsung",
+      "description":"G2000 Gaming Headset, Surround Stereo Gaming Headphones with Noise Cancelling Mic, LED Light & Soft Memory Earmuffs, Works with Xbox One, PS4, Nintendo Switch, PC Mac Computer" 
+    },
+    {
+      "id": 41,
+      "title": "Headphone",
+      "image": "/images/headphone/head5.png",
+      "price": 250,
+      "rating": 4.5,
+      "reviews": "2,401",
+      "brand": "Sony",
+      "description":"G2000 Gaming Headset, Surround Stereo Gaming Headphones with Noise Cancelling Mic, LED Light & Soft Memory Earmuffs, Works with Xbox One, PS4, Nintendo Switch, PC Mac Computer" 
+    },
+    {
+      "id": 42,
+      "title": "Headphone",
+      "image": "/images/headphone/head2.png",
+      "price": 75,
+      "rating": 3.0,
+      "reviews": "420",
+      "brand": "Apple",
+      "description":"G2000 Gaming Headset, Surround Stereo Gaming Headphones with Noise Cancelling Mic, LED Light & Soft Memory Earmuffs, Works with Xbox One, PS4, Nintendo Switch, PC Mac Computer" 
+    }
+  ],
+  "smartwatch":[
+    {
+      "id": 50,
+      "title": "Smart Watch HG555",
+      "image": "/images/watch/watch1.png",
+      "price": 50,
+      "rating": 4.5,
+      "reviews": "9,014",
+      "brand": "Samsung",
+      "description":"Mobile"
+    },
+    {
+      "id": 51,
+      "title": "Smart Watch JK874",
+      "image": "./images/watch/watch2.png",
+      "price": 100,
+      "rating": 3.5,
+      "reviews": "7,784",
+      "brand": "Apple",
+      "description":"Mobile"
+    },
+    {
+      "id": 52,
+      "title": "Smart Watch U856",
+      "image": "/images/watch/watch3.png",
+      "price": 78,
+      "rating": 4.5,
+      "reviews": "2,401",
+      "brand": "Samsung",
+      "description":"Mobile"
+    },
+    {
+      "id": 53,
+      "title": "Smart Watch",
+      "image": "/images/watch/watch1.png",
+      "price": 70,
+      "rating": 3.0,
+      "reviews": "420",
+      "brand": "Apple",
+      "description":"Mobile"
+    }  
+  ],
+
+  "categories":[
+    {
+    
+      "id":50,
+      "category":"laptop"
+  },
+    {
+    
+      "id":51,
+      "category":"mobile"
+  },
+    {
+    
+      "id":52,
+      "category":"monitorgaming"
+  },
+    {
+    
+      "id":53,
+      "category":"Headphone"
+  },
+    {
+    
+      "id":54,
+      "category":"smartwatch"
+  }
+    
+  ]  
+}
