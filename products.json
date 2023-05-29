@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Laptop Asus-F15-FX507zc",
-      "image": "public/images/laptop/11a.png",
+      "image": "/images/laptop/11a.png",
       "price": 400,
       "rating": 4.5,
       "reviews": "5,000",
@@ -14,7 +14,7 @@
     {
       "id": 2,
       "title": "Laptop Msi-571T",
-      "image": "public/images/laptop/12a.png",
+      "image": "/images/laptop/12a.png",
       "price": 450,
       "rating": 4.8,
       "reviews": "3,785",
@@ -38,7 +38,7 @@
     {
       "id": 4,
       "title": "Laptop Msi-581T",
-      "image": "public/images/laptop/14a.png",
+      "image": "/images/laptop/14a.png",
       "price": 600,
       "rating": 4.1,
       "reviews": "1,452",
@@ -50,7 +50,7 @@
     {
       "id":5,
       "title": "Laptop Msi-571T",
-      "image": "public/images/laptop/18a.png",
+      "image": "/images/laptop/18a.png",
       "price": 550,
       "rating": 4.5,
       "reviews": "7,014",
@@ -62,7 +62,7 @@
     {
       "id": 6,
       "title": "Laptop Asus-R875-EX507zc",
-      "image": "public/images/laptop/16a.png",
+      "image": "/images/laptop/16a.png",
       "price": 350,
       "rating": 4.5,
       "reviews": "8,079",
@@ -74,7 +74,7 @@
     {
       "id": 7,
       "title": "Laptop Msi-5897ERT",
-      "image": "public/images/laptop/17a.png",
+      "image": "/images/laptop/17a.png",
       "price": 590,
       "rating": 4.5,
       "reviews": "7,014",
@@ -86,7 +86,7 @@
     {
       "id": 8,
       "title": "Laptop Asus-879TGF",
-      "image": "public/images/laptop/18a.png",
+      "image": "/images/laptop/18a.png",
       "price": 850,
       "rating": 4.3,
       "reviews": "3,014",
@@ -98,7 +98,7 @@
     {
       "id": 9,
       "title": "Laptop Msi-TY7",
-      "image": "public/images/laptop/14a.png",
+      "image": "./images/laptop/14a.png",
       "price": 900,
       "rating": 4.5,
       "reviews": "4,014",
@@ -110,7 +110,7 @@
     {
       "id": 10,
       "title": "Laptop Asus-YUT895",
-      "image": "public/images/laptop/18a.png",
+      "image": "./images/laptop/18a.png",
       "price": 500,
       "rating": 4.5,
       "reviews": "5,014",
@@ -122,7 +122,7 @@
     {
       "id": 11,
       "title": "Laptop Asus-555R",
-      "image": "public/images/laptop/12a.png",
+      "image": "./images/laptop/12a.png",
       "price": 1200,
       "rating": 4.5,
       "reviews": "6,014",
@@ -135,7 +135,7 @@
     {
       "id": 12,
       "title": "Laptop Msi-YRT87",
-      "image": "public/images/laptop/13a.png",
+      "image": "./images/laptop/13a.png",
       "price": 750,
       "rating": 4.5,
       "reviews": "9,014",
@@ -148,7 +148,7 @@
     {
       "id": 12,
       "title": "Mobile Samsung M33",
-      "image": "public/images/mobile/s2.png",
+      "image": "./images/mobile/s2.png",
       "price": 500,
       "rating": 4.9,
       "reviews": "7,014",
@@ -159,7 +159,7 @@
     {
       "id": 13,
       "title": "Iphone Apple PRO12",
-      "image": "public/images/mobile/app1.png",
+      "image": "/images/mobile/app1.png",
       "price": 850,
       "rating": 4.5,
       "reviews": "7,014",
@@ -170,7 +170,7 @@
     {
       "id": 14,
       "title": "Mobile Samsung M33",
-      "image": "public/images/mobile/app1.png",
+      "image": "/images/mobile/app1.png",
       "price": 600,
       "rating": 4.9,
       "reviews": "4,014",
@@ -181,7 +181,7 @@
     {
       "id": 15,
       "title": "Iphone Apple PLUS 12",
-      "image": "public/images/mobile/app3.png",
+      "image": "/images/mobile/app3.png",
       "price": 650,
       "rating": 4.5,
       "reviews": "9,014",
@@ -192,7 +192,7 @@
     {
       "id": 16,
       "title": "Mobile Samsung M33",
-      "image": "public/images/mobile/s2.png",
+      "image": "/images/mobile/s2.png",
       "price": 950,
       "rating": 4.5,
       "reviews": "7,014",
@@ -203,7 +203,7 @@
     {
       "id": 17,
       "title": "Iphone Apple 13PRO",
-      "image":"public/images/mobile/app3.png",
+      "image":"/images/mobile/app3.png",
       "price": 620,
       "rating": 4.5,
       "reviews": "9,014",
@@ -214,7 +214,7 @@
     {
       "id": 18,
       "title": "Mobile Samsung M33",
-      "image": "public/images/mobile/s2.png",
+      "image": "/images/mobile/s2.png",
       "price": 1000,
       "rating": 4.5,
       "reviews": "9,014",
@@ -225,7 +225,7 @@
     {
       "id": 19,
       "title": "Iphone Apple 14PRO",
-      "image": "public/images/mobile/app3.png",
+      "image": "/images/mobile/app3.png",
       "price": 1280,
       "rating": 4.5,
       "reviews": "9,014",
@@ -236,7 +236,7 @@
     {
       "id": 20,
       "title": "Mobile Samsung M33",
-      "image": "public/images/mobile/s2.png",
+      "image": "/images/mobile/s2.png",
       "price": 1150,
       "rating": 4.5,
       "reviews": "9,014",
@@ -247,7 +247,7 @@
     {
       "id": 21,
       "title": "Iphone Apple 14PRO 128G",
-      "image": "public/images/mobile/app1.png",
+      "image": /images/mobile/app1.png",
       "price": 1530,
       "rating": 4.5,
       "reviews": "9,014",
@@ -258,7 +258,7 @@
     {
       "id": 22,
       "title": "Mobile Samsung M33",
-      "image": "public/images/mobile/s2.png",
+      "image": "/images/mobile/s2.png",
       "price": 980,
       "rating": 4.5,
       "reviews": "9,014",
@@ -269,7 +269,7 @@
     {
       "id": 23,
       "title": "Iphone Apple 14PRO 256G",
-      "image": "public/images/mobile/app4.png",
+      "image": "/images/mobile/app4.png",
       "price": 1999,
       "rating": 4.5,
       "reviews": "9,014",
