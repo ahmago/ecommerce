@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Laptop Asus-F15-FX507zc",
-      "image": "11a.png",
+      "image": "./images/laptop/11a.png",
       "price": 400,
       "rating": 4.5,
       "reviews": "5,000",
@@ -14,7 +14,7 @@
     {
       "id": 2,
       "title": "Laptop Msi-571T",
-      "image": "12a.png",
+      "image": "./images/laptop/12a.png",
       "price": 450,
       "rating": 4.8,
       "reviews": "3,785",
@@ -331,7 +331,7 @@
     {
       "id": 35,
       "title": "Headphone H200",
-      "image": "/images/headphone/head2.png",
+      "image": "/images/headphone/head2.jpg",
       "price": 50,
       "rating": 4.5,
       "reviews": "9,014",
@@ -342,7 +342,7 @@
     {
       "id": 36,
       "title": "Headphone Z50",
-      "image": "/images/headphone/head3.png",
+      "image": "/images/headphone/head3.jpg",
       "price": 70,
       "rating": 3.5,
       "reviews": "7,784",
@@ -353,7 +353,7 @@
     {
       "id": 37,
       "title": "Headphone R800",
-      "image": "/images/headphone/head4.png",
+      "image": "/images/headphone/head4.jpg",
       "price": 35,
       "rating": 4.5,
       "reviews": "2,401",
@@ -363,7 +363,7 @@
     {
       "id": 38,
       "title": "Headphone",
-      "image": "/images/headphone/head5.png",
+      "image": "/images/headphone/head5.jpg",
       "price": 90,
       "rating": 3.0,
       "reviews": "420",
@@ -373,7 +373,7 @@
     {
       "id": 39,
       "title": "Headphone",
-      "image": "/images/headphone/head6.png",
+      "image": "/images/headphone/head6.jpg",
       "price": 50,
       "rating": 4.5,
       "reviews": "9,014",
@@ -383,7 +383,7 @@
     {
       "id": 40,
       "title": "Headphone",
-      "image": "/images/headphone/head7.png",
+      "image": "/images/headphone/head7.jpg",
       "price": 200,
       "rating": 3.5,
       "reviews": "7,784",
@@ -393,7 +393,7 @@
     {
       "id": 41,
       "title": "Headphone",
-      "image": "/images/headphone/head5.png",
+      "image": "/images/headphone/head5.jpg",
       "price": 250,
       "rating": 4.5,
       "reviews": "2,401",
@@ -403,7 +403,7 @@
     {
       "id": 42,
       "title": "Headphone",
-      "image": "/images/headphone/head2.png",
+      "image": "/images/headphone/head2.jpg",
       "price": 75,
       "rating": 3.0,
       "reviews": "420",
