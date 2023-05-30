@@ -283,7 +283,7 @@
     {
       "id": 25,
       "title": "Monitor Gaming Msi Z570",
-      "image": "/images/monitor/m2.png",
+      "image": "https://imgtr.ee/images/2023/05/30/1ZLv2.png",
       "price": 3050,
       "rating": 4.5,
       "reviews": "8,014",
@@ -294,7 +294,7 @@
     {
       "id": 26,
       "title": "Monitor Gaming Samsung R852",
-      "image": "./images/monitor/m1.png",
+      "image": "https://imgtr.ee/images/2023/05/30/1Zxix.png",
       "price": 2900,
       "rating": 3.5,
       "reviews": "7,784",
@@ -305,7 +305,7 @@
     {
       "id": 27,
       "title": "Monitor Gaming Samsung R230",
-      "image": "/images/monitor/m2.png",
+      "image": "https://imgtr.ee/images/2023/05/30/1ZLv2.png",
       "price": 2250,
       "rating": 4.5,
       "reviews": "2,401",
@@ -316,7 +316,7 @@
     {
       "id": 28,
       "title": "Monitor Gaming Msi Z900",
-      "image": "/images/monitor/m1.png",
+      "image": "https://imgtr.ee/images/2023/05/30/1Zxix.png",
       "price": 3290,
       "rating": 3.0,
       "reviews": "420",
@@ -331,7 +331,7 @@
     {
       "id": 35,
       "title": "Headphone H200",
-      "image": "/images/headphone/head2.jpg",
+      "image": "https://imgtr.ee/images/2023/05/30/1ZbNm.png",
       "price": 50,
       "rating": 4.5,
       "reviews": "9,014",
@@ -342,7 +342,7 @@
     {
       "id": 36,
       "title": "Headphone Z50",
-      "image": "/images/headphone/head3.jpg",
+      "image": "https://imgtr.ee/images/2023/05/30/1ZpiU.png",
       "price": 70,
       "rating": 3.5,
       "reviews": "7,784",
@@ -353,7 +353,7 @@
     {
       "id": 37,
       "title": "Headphone R800",
-      "image": "/images/headphone/head4.jpg",
+      "image": "https://imgtr.ee/images/2023/05/30/1ZKnB.png",
       "price": 35,
       "rating": 4.5,
       "reviews": "2,401",
@@ -363,7 +363,7 @@
     {
       "id": 38,
       "title": "Headphone",
-      "image": "/images/headphone/head5.jpg",
+      "image": "https://imgtr.ee/images/2023/05/30/1Zd47.png",
       "price": 90,
       "rating": 3.0,
       "reviews": "420",
@@ -373,7 +373,7 @@
     {
       "id": 39,
       "title": "Headphone",
-      "image": "/images/headphone/head6.jpg",
+      "image": "https://imgtr.ee/images/2023/05/30/1ZpiU.png",
       "price": 50,
       "rating": 4.5,
       "reviews": "9,014",
@@ -383,7 +383,7 @@
     {
       "id": 40,
       "title": "Headphone",
-      "image": "/images/headphone/head7.jpg",
+      "image": "https://imgtr.ee/images/2023/05/30/1ZKnB.png",
       "price": 200,
       "rating": 3.5,
       "reviews": "7,784",
@@ -393,7 +393,7 @@
     {
       "id": 41,
       "title": "Headphone",
-      "image": "/images/headphone/head5.jpg",
+      "image": "https://imgtr.ee/images/2023/05/30/1Zd47.png",
       "price": 250,
       "rating": 4.5,
       "reviews": "2,401",
@@ -403,7 +403,7 @@
     {
       "id": 42,
       "title": "Headphone",
-      "image": "/images/headphone/head2.jpg",
+      "image": "https://imgtr.ee/images/2023/05/30/1Zd47.png",
       "price": 75,
       "rating": 3.0,
       "reviews": "420",
@@ -415,7 +415,7 @@
     {
       "id": 50,
       "title": "Smart Watch HG555",
-      "image": "/images/watch/watch1.png",
+      "image": "https://imgtr.ee/images/2023/05/30/1Z4on.png",
       "price": 50,
       "rating": 4.5,
       "reviews": "9,014",
@@ -425,7 +425,7 @@
     {
       "id": 51,
       "title": "Smart Watch JK874",
-      "image": "./images/watch/watch2.png",
+      "image": "https://imgtr.ee/images/2023/05/30/1Z4on.png",
       "price": 100,
       "rating": 3.5,
       "reviews": "7,784",
@@ -435,7 +435,7 @@
     {
       "id": 52,
       "title": "Smart Watch U856",
-      "image": "/images/watch/watch3.png",
+      "image": "https://imgtr.ee/images/2023/05/30/1Z4on.png",
       "price": 78,
       "rating": 4.5,
       "reviews": "2,401",
@@ -445,7 +445,7 @@
     {
       "id": 53,
       "title": "Smart Watch",
-      "image": "/images/watch/watch1.png",
+      "image": "https://imgtr.ee/images/2023/05/30/1Z4on.png",
       "price": 70,
       "rating": 3.0,
       "reviews": "420",
