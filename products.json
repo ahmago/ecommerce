@@ -3,18 +3,18 @@
     {
       "id": 1,
       "title": "Laptop Asus-F15-FX507zc",
-      "image": "/images/laptop/11a.png",
+      "image": "https://ibb.co/9g2qQpm",
       "price": 400,
       "rating": 4.5,
       "reviews": "5,000",
       "brand":"Asus",
-      "description":"Laptop - Athlon Gold 3150U, 4 GB RAM, 1 TB HDD, AMD Radeon            Graphics, 15.6-Inch HD, DOS - Astroid Silver"
+      "description":"Laptop - Athlon Gold 3150U, 4 GB RAM, 1 TB HDD, AMD Radeon Graphics, 15.6-Inch HD, DOS - Astroid Silver"
       
     },
     {
       "id": 2,
       "title": "Laptop Msi-571T",
-      "image": "/images/laptop/12a.png",
+      "image": "https://ibb.co/tCSytT1",
       "price": 450,
       "rating": 4.8,
       "reviews": "3,785",
@@ -26,7 +26,7 @@
     {
       "id": 3,
       "title": "Laptop Asus-T15-ZX580zc",
-      "image": "public/images/laptop/13a.png",
+      "image": "https://ibb.co/tCSytT1",
       "price": 320,
       "rating": 4.7,
       "reviews": "2,236",
@@ -148,7 +148,7 @@
     {
       "id": 12,
       "title": "Mobile Samsung M33",
-      "image": "./images/mobile/s2.png",
+      "image": "https://ibb.co/9g2qQpm",
       "price": 500,
       "rating": 4.9,
       "reviews": "7,014",
@@ -159,7 +159,7 @@
     {
       "id": 13,
       "title": "Iphone Apple PRO12",
-      "image": "/images/mobile/app1.png",
+      "image": "https://ibb.co/9g2qQpm",
       "price": 850,
       "rating": 4.5,
       "reviews": "7,014",
@@ -247,7 +247,7 @@
     {
       "id": 21,
       "title": "Iphone Apple 14PRO 128G",
-      "image": /images/mobile/app1.png",
+      "image": "/images/mobile/app1.png",
       "price": 1530,
       "rating": 4.5,
       "reviews": "9,014",
